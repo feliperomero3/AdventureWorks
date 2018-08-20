@@ -5,7 +5,7 @@ using .NET Framework 4.7
 
 After messing around with multiple projects e. g. one for DataAccess, Domain, 
 Infrastructure, Services, etc. This time I'll be using regular folders for 
-layering purpouses. If the need arises we can always add projects later.
+layering purposes. If the need arises we can always add projects later.
 
 One of the main reasons to do this is to experiment with Identity 2 which is 
 included as default authorization/authentication mechanism when you pick 
